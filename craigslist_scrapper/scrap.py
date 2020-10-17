@@ -49,5 +49,5 @@ def search(query="", limit=500):
 
 
 if __name__ == "__main__":
-    res = search("switch")
+    res = search("shoes")
     print(res.keys())
